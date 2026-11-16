@@ -8,7 +8,7 @@
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Z-Type22/script_requests
 cd script_requests
 ```
 
